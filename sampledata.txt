@@ -42,6 +42,6 @@
             "Age":"25",
             "Gender":"Male",
             "Marks Scored":"400"
-        },
+        }
     ]
 }
