@@ -1,74 +1,47 @@
 {
     "data": [
         [
-            "ST1",
-            "Preeti",
-            "35",
-            "Female",
-            "320"
+            "StudentID" : "ST1",
+            "StudentName" :"AAA",
+            "Age":"35",
+            "Gender":"Female",
+            "Marks Scored":"320"
+        ],
+        
+        [
+            "StudentID" : "ST2",
+            "StudentName" :"BBB",
+            "Age":"40",
+            "Gender":"Male",
+            "Marks Scored":"300"
         ],
         [
-            "ST2",
-            "Vincy",
-            "36",
-            "Female",
-            "170"
+            "StudentID" : "ST3",
+            "StudentName" :"CCC",
+            "Age":"25",
+            "Gender":"Female",
+            "Marks Scored":"220"
         ],
         [
-            "ST3",
-            "Ashwini",
-            "41",
-            "Female",
-            "860"
+            "StudentID" : "ST4",
+            "StudentName" :"DDD",
+            "Age":"50",
+            "Gender":"Male",
+            "Marks Scored":"100"
         ],
         [
-            "ST4",
-            "Kelly",
-            "32",
-            "Female",
-            "433"
+            "StudentID" : "ST5",
+            "StudentName" :"EEE",
+            "Age":"20",
+            "Gender":"Female",
+            "Marks Scored":"200"
         ],
         [
-            "ST5",
-            "Satvik",
-            "41",
-            "male",
-            "162"
-        ],
-        [
-            "ST6",
-            "William",
-            "37",
-            "Female",
-            "372"
-        ],
-        [
-            "ST7",
-            "Chandan",
-            "31",
-            "male",
-            "375"
-        ],
-        [
-            "ST8",
-            "David",
-            "45",
-            "male",
-            "327"
-        ],
-        [
-            "ST9",
-            "Harry",
-            "29",
-            "male",
-            "205"
-        ],
-        [
-            "ST10",
-            "Frost",
-            "29",
-            "male",
-            "300"
+            "StudentID" : "ST6",
+            "StudentName" :"FFF",
+            "Age":"25",
+            "Gender":"Male",
+            "Marks Scored":"400"
         ],
     ]
 }
