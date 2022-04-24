@@ -1,0 +1,47 @@
+{
+    "data": [
+        [
+            "StudentID" : "ST1",
+            "StudentName" :"AAA",
+            "Age":"35",
+            "Gender":"Female",
+            "Marks Scored":"320"
+        ],
+        
+        [
+            "StudentID" : "ST2",
+            "StudentName" :"BBB",
+            "Age":"40",
+            "Gender":"Male",
+            "Marks Scored":"300"
+        ],
+        [
+            "StudentID" : "ST3",
+            "StudentName" :"CCC",
+            "Age":"25",
+            "Gender":"Female",
+            "Marks Scored":"220"
+        ],
+        [
+            "StudentID" : "ST4",
+            "StudentName" :"DDD",
+            "Age":"50",
+            "Gender":"Male",
+            "Marks Scored":"100"
+        ],
+        [
+            "StudentID" : "ST5",
+            "StudentName" :"EEE",
+            "Age":"20",
+            "Gender":"Female",
+            "Marks Scored":"200"
+        ],
+        [
+            "StudentID" : "ST6",
+            "StudentName" :"FFF",
+            "Age":"25",
+            "Gender":"Male",
+            "Marks Scored":"400"
+        ],
+    ]
+}
